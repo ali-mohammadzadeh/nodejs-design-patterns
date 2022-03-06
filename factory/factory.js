@@ -4,6 +4,7 @@ class Developer {
     }
 }
 
+let a="implementation"
 class Tester {
     constructor(username) {
         this.username = username
